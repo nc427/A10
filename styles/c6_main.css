@@ -14,11 +14,11 @@ body {
     border: 3px solid #931420;
     background-color: #fffded;
 }
-.section{
+section{
 	width: 525px;
 	float: right;
 }
-.aside{
+aside{
 	width: 215px;
 	float: right;
 }
