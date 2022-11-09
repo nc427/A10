@@ -20,7 +20,7 @@ section{
 }
 aside{
 	width: 215px;
-	float: left;
+	float: right;
 }
 a:focus, a:hover {
 	font-style: italic;
