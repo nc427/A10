@@ -14,10 +14,7 @@ body {
     border: 3px solid #931420;
     background-color: #fffded;
 }
-section{
-	width: 525px;
-	float: right;
-}
+
 
 a:focus, a:hover {
 	font-style: italic;
@@ -100,7 +97,12 @@ article h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
 }
-
+/*the styles for the section */
+section{
+	width: 525px;
+	float: right;
+	padding: 0 20px 20px 20px;
+}
 /* the styles for the aside */
 
 aside{
@@ -122,6 +124,7 @@ aside img {
 /* the styles for the footer */
 footer {
 	background-color: #931420;
+	clear: both;
 }
 footer p {
 	text-align: center;
